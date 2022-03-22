@@ -1,12 +1,12 @@
 # Kickstarter_Challenge.xlsx
-Performing analysis on Kickstarter data to visualize campaign outcomes
+Performing analysis on Kickstarter data to visualize campaign outcomes.
 ## Overview of Project
 Comparing different campaigns outcomes based on their launch dates and funding goals.
 ### Purpose
 To visualize the outcome on how fast certain campaigns in subcategory theater and plays reach their funding goals in relation to their lauch date.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-There was more successful campaigns in May, which was also the time of the most failed. In October there was zero canceled campaigns and more in the month of January. Overall, the grand total was 1369 outcomes![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/101304672/159417568-c02d07ba-8fc9-46e6-b60e-159662c7db6e.png)
+There was more successful campaigns in May, which was also the time of the most failed. In October there was zero canceled campaigns and more in the month of January. Overall, the grand total was 1369 outcomes.![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/101304672/159417568-c02d07ba-8fc9-46e6-b60e-159662c7db6e.png)
 ### Analysis of Outcomes Based on Goals
 Out of 534 total projects who goal was between $1000 to $4999 and also the goal with the most projects 73% was successful. Only one goal had a 100% failed outcome which was $45000 to $49999 range. I also did notice the goal $15000 to $19999 had the 50% failed and successful out of 24 project. There was no goals that canceled but more higher failed percentages overall.
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/101304672/159417514-5742b7ef-34ee-4399-a652-ce9c74243b38.png)
